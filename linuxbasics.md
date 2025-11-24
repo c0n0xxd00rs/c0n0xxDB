@@ -66,4 +66,5 @@ whoami -----> show logged-in user/Admin
 
 cp ----> copying Files | Folder ; cp <file> <another-FILE> | cp -r <folder 1> <folder2>
 
+
 mv -----> move or rename a File; mv <oldfile.txt> <newfile.txt>
