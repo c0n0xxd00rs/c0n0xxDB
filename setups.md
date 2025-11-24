@@ -38,6 +38,6 @@ cd desktop
 
 ls -a  -------------> list all hidden && unhidden folders
 
-mkdir <project folder |name>
+mkdir project folder |name
 
 
