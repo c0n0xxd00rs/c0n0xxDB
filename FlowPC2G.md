@@ -100,7 +100,7 @@ TRACKING FILES | STAGING | INDEXING; git add .
 
 COMMIT | SAVE ; git commit -m "a"
 
-link of  SSH on GITHUB FROM YOUR NEW / EXISTING REPO FOR THE PROJECT USE; git remote aadd origin
+link of  SSH on GITHUB FROM YOUR NEW / EXISTING REPO FOR THE PROJECT USE; git remote add origin
 
 
 UPLOAD TO GITHUB ; git push
