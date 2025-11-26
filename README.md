@@ -3,6 +3,7 @@
 whoami: 
 
  c0n0xxBC  
- Software Developer | Web Pentester | Educator
+ 
+Self-taught Software Developer && Breaker
 
  TEACHES YOU ALL YOU NEEDED TO GET STARTED WITH GIT AND BASIC LINUX COMMANDS YOU CAN'T RUN AWAY FROM.
