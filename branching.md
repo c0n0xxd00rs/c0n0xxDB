@@ -38,3 +38,36 @@ or
 git checkout "your branch name"
 
 ""-------> is not included
+
+----------------------------------------------------------------------
+
+DELETING LOCAL BRANCH
+  
+git branch -d branchname
+  
+
+--------------------------------------------------------
+FORCE DELETE
+   
+git branch -D branchname
+
+
+-==================================================================
+
+ DELETE A REMOTE BRANCH 
+
+  
+git push origin --delete branchname
+
+git push origin :branchname
+
+----------------------------------------------------------------------------
+
+
+TO CHECK BRANCH DELETION
+
+  
+git branch
+
+git branch -r
+  
