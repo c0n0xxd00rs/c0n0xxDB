@@ -71,7 +71,12 @@ git push -u origin main
 
 ----------------------------------------------------------------------------
 
+If anytime to do next upload to github always remember the branch on terminal vs the pushing branching you're using 
 
+
+i.e
+
+if will work only if the terminal and the pushing are on thesame branch not vice-versa
 
 
 
